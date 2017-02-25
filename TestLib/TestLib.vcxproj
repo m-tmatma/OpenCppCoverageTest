@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4525DACB-AE69-4A33-A703-5292DD0BD988}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>TestDLL</RootNamespace>
+    <RootNamespace>TestLib</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

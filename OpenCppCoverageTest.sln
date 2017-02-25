@@ -13,7 +13,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCppCoverageTest2", "Ope
 		{4525DACB-AE69-4A33-A703-5292DD0BD988} = {4525DACB-AE69-4A33-A703-5292DD0BD988}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestDLL", "TestDLL\TestDLL.vcxproj", "{4525DACB-AE69-4A33-A703-5292DD0BD988}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLib", "TestLib\TestLib.vcxproj", "{4525DACB-AE69-4A33-A703-5292DD0BD988}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
